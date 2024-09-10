@@ -24,8 +24,9 @@ Different types of TD may require other forms of measures [27]. TD can occur in 
 >-	Define tools, resources, or standards: the context should foresee the study and implementation of new tools and standards needed for TDM.
 >-	Determine the extent of each cycle: determine a start and end period for performance analysis, then review the process for the next period.
 >-	Identify risks: know the risks that may affect the objectives and decision-making, foreseeing strategies to mitigate and manage them.
-
+>
 >Outcomes: TDM criteria, Goals, Strategies, Action Plans, Responsibles, List of Artifacts (e. g. PHP source code), Risks, KPIs, and Tools.
-
+>
 >Responsible Role: TD Manager.
+>
 >Other participant roles: Sponsors, Managers and Team leads.
