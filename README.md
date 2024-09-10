@@ -9,7 +9,7 @@ This article aims to define and implement an incremental and evolutionary proces
 ## Activity: Context
 In the definition of the context of the Technical Debt Management, the objectives, the scenario, the type of Technical Debt that will be managed, the stakeholders, and the criteria to achieve the objectives are described. This understanding is communicated to stakeholders to validate the information.
 
-Different types of Technical Debt may require other forms of measures [27]. Technical Debt can occur in various artifacts throughout the product life cycle, having a distinct nature depending on when it is incurred and the activities with which it is associated [10]. A Technical Debt Management policy should be based on both the business context of a company and the technological environment in which it operates.
+Different types of Technical Debt may require other forms of measures [1]. Technical Debt can occur in various artifacts throughout the product life cycle, having a distinct nature depending on when it is incurred and the activities with which it is associated [2]. A Technical Debt Management policy should be based on both the business context of a company and the technological environment in which it operates.
 
 >:hammer: **Tasks**: 
 >-	Define the objectives: the objectives may have different aspects, such improve the internal or external quality of the product, decreasing the development cost, decreasing the onboarding time for newly hired professionals, among others. It also can be applied to different technologies.
@@ -109,7 +109,7 @@ The information generated in this activity is used in decision-making, mainly ab
 Technical Debt Repayment refers to the activities carried out to support decision-making about the most appropriate time to eliminate items from the debt. 
 
 ### Activity: Prioritization
-Technical Debt prioritization is about deciding which Technical Debt Items are to be repaid first and which items will be delayed until later releases [35]. Prioritization should provide information to support decision-making about which Technical Debt Item should be paid.
+Technical Debt prioritization is about deciding which Technical Debt Items are to be repaid first and which items will be delayed until later releases [4]. Prioritization should provide information to support decision-making about which Technical Debt Item should be paid.
 
 The output of this activity should be a list of Technical Debt Items eligible for payment.
 
@@ -137,7 +137,7 @@ Technical Debt payment actions can be manual or automatic, using approved tools 
 >:busts_in_silhouette: **Other participant roles**: Team Leads, Artifact responsible.
 
 ## Activity: Prevention
-The Technical Debt prevention activity acts within the software development process, with actions to prevent the appearance of Technical Debt.Prevention refers to activities whose objective is to prevent the occurrence of Technical Debt [31]. Technical Debt Prevention can be seen as one of the most influential activities of the Technical Debt Management that a development team can conduct. When the development team has set up mandatory coding standards, assisted with, e.g., code reviews and Definition of Done practice, the amount of Technical Debt that gets to the code base may decrease. When Technical Debt is prevented as much as possible, it also helps other Technical Debt Management activities. In addition, setting up Technical Debt prevention practices helps catch inexperienced developers’ ‘not-so-good’ solutions [31].
+The Technical Debt prevention activity acts within the software development process, with actions to prevent the appearance of Technical Debt.Prevention refers to activities whose objective is to prevent the occurrence of Technical Debt [3]. Technical Debt Prevention can be seen as one of the most influential activities of the Technical Debt Management that a development team can conduct. When the development team has set up mandatory coding standards, assisted with, e.g., code reviews and Definition of Done practice, the amount of Technical Debt that gets to the code base may decrease. When Technical Debt is prevented as much as possible, it also helps other Technical Debt Management activities. In addition, setting up Technical Debt prevention practices helps catch inexperienced developers’ ‘not-so-good’ solutions [3].
 
 >:hammer: **Tasks**:
 >-	Identify potential problems: review the software development activities that are part of the Technical Debt Management context, to propose changes to avoid the appearance of Technical Debt;
@@ -196,3 +196,11 @@ From our experience, we compiled the following guidelines to make an effective a
 8.	Attention to the dynamics: the Technical Debt can appear or disappear as the source code or context changes. Technical Debt Management should be aware to detect, recognize, and answer to these changes accordingly;
 9.	Change of culture: Technical Debt Management can cause changes in how software is developed. These changes can cause initial discomfort in the development team and need support from stakeholders;
 10.	Continuous improvement: the behavior and culture of developers significantly influence continuous improvement through learning and experiences acquired in the Technical Debt Management process. Technical Debt Management is a lifelong commitment.
+
+
+
+### References
+[1] 	Y. Guo and C. Seaman, “A Portfolio Approach to Technical Debt Management”,  MTD '11: Proceedings of the 2nd Workshop on Managing Technical Debt, 2011.
+[2] 	H. Ghanbari, T. Besker, A. Martini and J. Bosch, “Looking for Peace of Mind? Manage your (Technical) Debt. An Exploratory Field Study”, 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017.
+[3] 	J. Yli-Huumo, A. Maglyas and K. Smolander, “How do software development teams manage technical debt? - An empirical study”, Journal of Systems and Software, 2016.
+[4] 	Z. Li, P. Avgeriou and P. Liang, “A systematic mapping study on technical debt and its management”, Journal of Systems and Software, 2015. 
