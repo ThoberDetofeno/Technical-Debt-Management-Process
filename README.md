@@ -4,6 +4,10 @@ Technical Debt (TD) is a metaphor that expresses the immaturity of software arti
 
 This article aims to define and implement an incremental and evolutionary process of Technical Debt Management in software development, validated in a real industry application context. This study includes a new process to manage Technical Debt, which can be used to guide the company in the search for better results, periodically reviewing the practices and decisions adopted. The process provides guidelines that can be tailored for other organizations or contexts.
 
+The Technical Debt Management Process proposed by our work is presented in Figure below. It involves systematically applying procedures and practices to implement effective Technical Debt Management successfully. The process should be seen as iterative. It considers the context and the strategies to achieve the objectives. At each new iteration, or cycle, the results are evaluated, the objectives and the teams' capacity are reviewed to evolve in the Technical Debt Management goal. 
+
+Each iteration starts with a Context activity that sets the ground for the others and ends with a Review activity that analyzes the results and prepares for the next iteration. Communication and monitoring is an activity that takes place along all the processes. Technical Debt Assessment is divided into Discovery, Analysis, Identification, and Measurement tasks. Technical Debt Repayment is divided into Prioritization and Payment tasks. TD Prevention is a continuous activity that the technical team must internalize.
+
 <img src="TDMProcess.png" alt="drawing" width="1200"/>
 
 ## Activity: Context
@@ -201,6 +205,9 @@ From our experience, we compiled the following guidelines to make an effective a
 
 ### References
 [1] 	Y. Guo and C. Seaman, “A Portfolio Approach to Technical Debt Management”,  MTD '11: Proceedings of the 2nd Workshop on Managing Technical Debt, 2011.
+
 [2] 	H. Ghanbari, T. Besker, A. Martini and J. Bosch, “Looking for Peace of Mind? Manage your (Technical) Debt. An Exploratory Field Study”, 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017.
+
 [3] 	J. Yli-Huumo, A. Maglyas and K. Smolander, “How do software development teams manage technical debt? - An empirical study”, Journal of Systems and Software, 2016.
+
 [4] 	Z. Li, P. Avgeriou and P. Liang, “A systematic mapping study on technical debt and its management”, Journal of Systems and Software, 2015. 
