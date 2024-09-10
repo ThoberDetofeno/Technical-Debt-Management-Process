@@ -201,8 +201,6 @@ From our experience, we compiled the following guidelines to make an effective a
 9.	Change of culture: Technical Debt Management can cause changes in how software is developed. These changes can cause initial discomfort in the development team and need support from stakeholders;
 10.	Continuous improvement: the behavior and culture of developers significantly influence continuous improvement through learning and experiences acquired in the Technical Debt Management process. Technical Debt Management is a lifelong commitment.
 
-
-
 ### References
 [1] 	Y. Guo and C. Seaman, “A Portfolio Approach to Technical Debt Management”,  MTD '11: Proceedings of the 2nd Workshop on Managing Technical Debt, 2011.
 
@@ -211,3 +209,7 @@ From our experience, we compiled the following guidelines to make an effective a
 [3] 	J. Yli-Huumo, A. Maglyas and K. Smolander, “How do software development teams manage technical debt? - An empirical study”, Journal of Systems and Software, 2016.
 
 [4] 	Z. Li, P. Avgeriou and P. Liang, “A systematic mapping study on technical debt and its management”, Journal of Systems and Software, 2015. 
+
+---
+See the full article [HERE](https://github.com/ThoberDetofeno/Managing-Technical-Debt-in-action) 
+---
